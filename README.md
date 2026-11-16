@@ -1,2 +1,6 @@
 # Proyecto_Paralela_3
-Integrantes: Miguel Fabricio Arias Vargas,  Santiago Asunción Marín y  Andrés Oreamuno Varela.
+## Team
+
+- **Miguel Fabricio Arias Vargas** — C5C762
+- **Santiago Asunción Marín** — C5C829
+- **Andrés Oreamuno Varela** — A43842
